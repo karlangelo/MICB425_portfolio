@@ -53,7 +53,7 @@ Third level headers (###) should be used for links to assignments, evidence work
 
 Use this space to include your installation screenshots.
 
-<img src="KA_assignment1.pdf" alt="some text"  width="2500" height="2500">
+<img src="KA_assignment1.pdf" width="2500" height="2500">
 
 
 ### Portfolio repo setup
@@ -110,6 +110,38 @@ And now you’ve almost finished your first RMarkdown! Feeling excited? We are! 
 
 ![](https://media.giphy.com/media/26u4eMNSMWydF0v8A/giphy.gif)
 
+#### Data Science Exercises 
+
+```{r}
+#Jan 26, 2018
+
+#Load Library
+library("tidyverse")
+
+#Exercise 1
+metadata = read.table(file="Saanich.metadata.txt", header=TRUE, row.names = 1, sep="\t", na.strings="NAN")
+OTU = read.table(file="Saanich.OTU.txt", header=TRUE, row.names = 1, sep="\t", na.strings="NAN")
+
+#Exercise 2
+
+metadata %>% rownames_to_column('sample') %>% 
+  filter(CH4_nM >=100, Temperature_C<=10) %>%
+  column_to_rownames('sample') %>% 
+  select(Depth_m,CH4_nM,Temperature_C)
+
+#Exercise 3
+
+nM_to_uM_Metadata_coversion <-metadata %>% rownames_to_column('sample') %>% 
+  select(matches("nM"), matches('sample')) %>% 
+  mutate(N2O_uM = N2O_nM/1000, Std_N2O_uM = Std_N2O_nM/1000, CH4_uM = CH4_nM/1000, Std_CH4_uM = Std_CH4_nM/1000) %>% 
+  column_to_rownames('sample')
+
+#For Exercise 3: All variables that are in nM to μM. The output table titled: nM_to_uM_Metadata_coversion shows only the original nM and converted μμM variables.
+
+```
+
+
+
 
 ## Origins and Earth Systems
 ### Evidence worksheet 01 
@@ -134,8 +166,6 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
 * Do new questions arise from the results?  
 
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
-
-
 
 ### Problem set 01
 #### Learning objectives: 
@@ -163,7 +193,6 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 * Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?  
 
 * What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
-
 
 
 ### Module 01 references
