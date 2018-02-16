@@ -1,0 +1,28 @@
+---
+title: "Plotting data in R"
+author: "Karl Abuan"
+date: '2018-02-15'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library("knitr")
+
+library("tidyverse")
+
+source("https://bioconductor.org/biocLite.R")
+biocLite("phyloseq")
+
+library("phyloseq")
+
+load("phyloseq_object.RData")
+
+ggplot(metadata, aes(x=PO4_uM, y=Depth_m)) + geom_point(shape="triangle")
+
+ggplot(metadata, aes(x=PO4_uM, y=Depth_m)) + geom_point(size="10")
+```
