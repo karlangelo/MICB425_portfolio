@@ -122,7 +122,6 @@ And now you’ve almost finished your first RMarkdown! Feeling excited? We are! 
 
 ### Data Science Friday Assignment Jan 26
 
-
 ```{r}
 #Load Library
 library("tidyverse")
@@ -151,57 +150,7 @@ nM_to_uM_Metadata_coversion <-metadata %>% rownames_to_column('sample') %>%
 
 ### Data Science Friday Assignment Feb 16
 
-```{r}
-library("tidyverse")
-
-source("https://bioconductor.org/biocLite.R")
-biocLite("phyloseq")
-
-library("phyloseq")
-
-load("phyloseq_object.RData")
-
-#Exercise 1
-
-ggplot(metadata, aes(x=PO4_uM, y=Depth_m)) + 
-  geom_point(color="purple", shape=17)
-
-#Exercise 2
-metadata %>% 
-  mutate(Temperature_F= Temperature_C*9/5+32) %>% 
-  ggplot() + geom_point(aes(x=Temperature_F, y=Depth_m))
-
-#gglot with phyloseq
-plot_bar(physeq, fill="Phylum")
-physeq_percent = transform_sample_counts(physeq, function(x) 100 * x/sum(x))
-plot_bar(physeq_percent, fill="Phylum")
-plot_bar(physeq_percent, fill="Phylum") + 
-  geom_bar(aes(fill=Phylum), stat="identity")
-
-#Exercise 3
-plot_bar(physeq_percent, fill="Phylum", title = "Phyla from 10 to 200 in Saanich Inlet") +
-  geom_bar(aes(fill=Phylum), stat="identity") + 
-  labs(x="Sample depth", y="Percent relative abundance")
-
-#Faceting
-plot_bar(physeq_percent, fill="Phylum") +
-  geom_bar(aes(fill=Phylum), stat="identity") +
-  facet_wrap(~Phylum)
-
-plot_bar(physeq_percent, fill="Phylum") +
-  geom_bar(aes(fill=Phylum), stat="identity") +
-  facet_wrap(~Phylum, scales="free_y") +
-  theme(legend.position="none")
-
-#Exercise 4
-
-plot_nutrients= metadata %>% 
-  select(Depth_m, NH4_uM,NO2_uM, NO3_uM, O2_uM, PO4_uM, SiO2_uM) %>% 
-  gather(Nutrients, Concentration, NH4_uM,NO2_uM, NO3_uM, O2_uM, PO4_uM, SiO2_uM)
-
-ggplot(plot_nutrients, aes(x=Depth_m, y=Concentration)) +
-  geom_point() + geom_line() +facet_wrap(~Nutrients, scales="free_y") +
-  theme(legend.position = "none")
+```{r DS_AssignmentFeb162018}
 ```
 
 
@@ -219,15 +168,49 @@ As you include Evidence worksheets and Problem sets in the future, ensure that y
 Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems. 
 
 #### General questions
+
 * What were the main questions being asked?  
+
+    + What is the estimate number of prokaryotes on earth, epecifically in seawater, soil, and the sediment/soil subsurface?
+    + How much carbon derived from prokaryotes from the total carbon on Earth?
 
 * What were the primary methodological approaches used?  
 
+    + Three largest habitats were used to estimate the total number and total carbon of prokaryotes on earth:
+      1.	For the aquatic environments, the volumes of oceanic water, freshwater/ saline lakes, polar regions and the corresponding average cellular densities were multiplied to calculate the number of cells for that region. For the polar region, in particular, the estimated number of prokaryotes by Delille & Rosiers and the mean area extent of seasonal ice were also used in the calculation.
+      2.	For the soil, the authors conducted detailed direct counts from a coniferous forest utisol as it was generally considered representative of forest soil. 
+      3.	For the subsurface, the first approach is based on the assumption of the percentage of the  average porosity of the terrestrial subsurface (3%) and the total pore space occupied by prokaryotes (0.016%). The other approach involved using the estimated of number of prokaryotes in various groundwater sites multiplied to total volume of ground water in the earth surface.
+
 * Summarize the main results or findings.  
+
+    + Based on oceanic, soil, and subsurface habitats, the estimated total number of prokaryotes is 4 to 6 x $10^{30}$ cells
+    + 350-550 pg C of the total amount of C on Earth are estimated for the prokaryotes
+    + prokaryotic carbon pool is ~ 60 to 100% of the total carbon found in plants globally
+    + Prokaryotes contain ~ 85 to 130 Pg of N & 9 to 14 Pg of P which 10-fold more than plants
+    + Most prokaryotes found in ocean, soil, and oceanic & terrestrial subsrface habitats
+	      + 1.2 x $10^{29}$ cells in open ocean
+	      + 2.6 x $10^{29}$ cells in soil
+	      + 3.5 x $10^{29}$ cells in oceanic subsurface
+	      + 0.25 to 2.5 x $10^{30}$ cells in terrestrial subsurface
+    + The average prokaryotic turnover times are:
+	    + 20 0m upper ocean: 6 to 25 days
+	    + Ocean below 200 m: 0.8 years
+	    + Soil: 2.5 years
+	    + Subsurface: 1.2 x $10^{3}$ years
+      + Cellular production rate is ~ 1.7 x $10^{30}$ cells/year (highest in open ocean)
+    + The abundance of prokaryotes offers an enormous capacity for genetic diversity
 
 * Do new questions arise from the results?  
 
+    + There were many assumptions made in this study. Thus, how accurate were the numbers?
+    +  The prokaryotes' biomass is rich in nitrogen and phosphorus and in fact greater than of plants by an order of magnitude. This is  an indicative of the significat role prokaryotes play in C, N, and P  nutrient cycles, globally. Are there other global events or factors that prokayotes are involved in? 
+    + Microbes have high mutation rate and this could affect its turnover rates and consequently the cycles of nutrients such as C, N, and P. Up to what extent do prokaryotes play a role in the total metabolic potential of the earth's ecosystems?
+    + How diverse are the prokaryotes in each of habitats?
+
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+
+    + There were a lot of number presented in the study and it would be really helpful if the authors provided more information regarding how they performed various calculations.
+    + Using multiple estimated data also increases the errors associated with it, which decreases the statistical confidence with the results
 
 ### Problem set 01
 #### Learning objectives: 
@@ -236,33 +219,75 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 #### Specific questions:
 * What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.  
 
+    + 1.2 x $10^{29}$ cells in open ocean
+    + 2.6 x $10^{29}$ cells in soil
+    + 3.5 x $10^{29}$ cells in oceanic subsurface
+    + 0.25 to 2.5 x $10^{30}$ cells in terrestrial subsurface
+  
 * What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?  
+
+    + 3.6 x $10^{28}$ cells in the upper 200 m of the ocean
+    + 2.9 x $10^{27}$ cells are autotrophs
+    + 8% of the biomass in the upper 200m of the ocean is represented by marine autotrophs including cyanobacterium/Prochlorococcus
+    + 8% of the autotrophs are responsible for the amount of carbon cycled through the Earth's oceans, which ultimately support carbon availability for the rest of the 92% heterotrophs
 
 * What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?  
 
+    + An autotroph uses inorganic chemicals (i.e. carbon dioxide) as carbon source, while heterotroph assimilate organic carbon sources (2). Autotrophs are also self-nourshing and capable of fixing inorganic carbon dioxide into biomass. 
+    + A lithotroph uses an inorganic chemical as electron source (2).
+    
 * Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?  
+
+    + The text provides that there are prokaryotes up to 4 km deep in the subsurface.
+    + Taking into account the deepest point in the ocean which is the Mariana's Trench       (10.9km deep), life could potentially exist at 14.9km deep.
+    + The limiting factor at these depths is the temperature.  At 4km deep into the     substrate the temperature is ~ 125 degrees celsius.
 
 * Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?  
 
+    + From the text, it was suggested that the atmosphere at 77 km is the upper bound from the highest point of the earth surface that is capable of supporting prokaryotic life. The highest habitat on Earth is Mount Everest which is approximately 8.8km above sea level. Some factors that can limit survival of airborne prokaryotes are nutrient availability, moisture (desiccant conditions) and UV radiation (3).
+
 * Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?  
 
+    + From the top of Mount Everest (8.8km high) to the bottom of Mariana's Trench (10.9km deep + 4km deeper into the sediment), there is about 24 km vertical distance where prokaryotes presumably can live. 
+    
 * How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)  
 
+    + population size * # of turn over per year (years) = cell per year 
+  
+    + Example: Using the data for marine heterotrophs:3.6 x 10^{28} * 365 day /15 turnovers = 8.2 x 10^{29} cells/ year
+  
 * What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?  
 
+    + According to the text, the carbon efficiency is approximated to be 20%.
+    + Assumption: 20 fg of C per prokaryotic cell which is is about 20^{-30} petagrams
+    + Amount of carbon in marine heterotrophs (pg/cell) = 3.6 x 10^28 cells x 20^{-30} petagrams of C/cell = 0.72 petagrams/ cell
+    + With 20% loss and 80% approx. retained, there is 4 x 0.72 = 2.88 petagrams of C/year for marine heterotrophs
+
+    + 51 petagrams of C/ year * 85% of that is consumed in photic waters = 43 petagrams of C/ year is consumed
+    + 43 petagrams C consumed /year / 2.88 petagrams C assimilated/year = 14.9 or 1 turnover every 24.5 days
+
+    + The variation of carbon assimilation with depths are primarily due to the different carbon production and composition of microoganism found in that particular habitat. 
+
+
 * How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)  
+
+    + [4.7x10^{-7} mutations/generation]^{4}= 2.56 x 10^{-26} mutations/generation
+    + generations per year in marine habitats? 3.6 x 10^{28} cells 
+    + 365 days/ 16 days = 22.8 turnovers/year
+    
+    + 3.6 x 10^{28} cells  x 22.8 turnovers/year = 8.2 x 10{^29} cells/year
+    
+    + 8.2 x 10{^29} cells/year x 2.56 x 10^{-26} mutations/generation = 2.1x 10{^4} mutations/year
+
+    + 2.1 x 10^4^ mutations/year is about 0.4 mutations/hour, as stated in the paper (1).
+    
+    + With a fast turnover rate and a big population size, these numbers are possible with respect to microbial population
+
 
 * Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?  
 
 * What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
 
-
-### Module 01 references
-Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
-
-An example for Whitman and Wiebe (1998) has been included below.
-
-Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 
 ### Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”
 
@@ -306,7 +331,7 @@ Comment on the emergence of microbial life and the evolution of Earth systems
     + 2.1 billion years ago
     + 1.8 billion years ago
     + 1.3 billion years ago
-    x
+    
     + 550,000 years ago
         + Cambrian explosion, expansion of multicellular evolution
         + Denovian explosion, emergence of woody land plants
@@ -328,16 +353,23 @@ Comment on the emergence of microbial life and the evolution of Earth systems
 * Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
 
     + Hadean  
-        + With the temeprature of 500 degree Celcius and high levels of carbon diaxide  and water vapous, the Earth is practically brown and molten object.
+        + With the temeprature of 500 degree Celcius and high levels of carbon diaxide  and water vapous, the Earth is practically a molten object.
     
     + Archean  
         + A glaciation occured.
         + Soon after the planet became brown and hazy due methanogenesis. Methane produce by methanogens help keep Earth warm. Otherwise, the Earth would have stayed frozen and perhaps no life would have existed.
     + Precambrian
-    
+        + Phosynthesis evolves, result ing some oxygen in the atmosphere.
     + Proterozoic  
       + During early proterozoic, another glaciation event occured. Once again, the Earth system has "shut down".
+          + Oxygen and atmospheric methane =  carbon dioxide. This caused a net decrease in greenhouse gas effects, making earth cold and leading to glaciation. 
+      + The oxygen also started oxidizing iron forming banded irons, as seen in sedimentary rock.
+
     + Phanerozoic  
+      + There was an increased oxygenation of the atmosphere
+      + Plants started to evolve 
+      + Coal deposits from dead organisms caused by multiple extiction events were stored in sediments
+      + Once again, glaciation occured at various periods
 
 ### Problem set_02 “Microbial Engines”
 #### Learning objectives: 
@@ -355,3 +387,15 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
 * What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?  
 
 * On what basis do the authors consider microbes the guardians of metabolism?
+
+### Module 01 references
+Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
+
+An example for Whitman and Wiebe (1998) has been included below.
+
+1. Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+2. Bigle, W. 2017 . MICB 401: Enviromental Microbiology Laboratory
+
+3. Budny, J. A. (2017). Book review: Aerobiology-The toxicology of airborne pathogens and toxins. 
+Los Angeles, CA: SAGE Publications.10.1177/1091581816678191
