@@ -1,0 +1,52 @@
+---
+title: "Project self-assessment of contributions"
+subtitle: "2018 Term 2 - MICB425"
+output: html_document
+---
+To facilitate group assessment, please indicate your contributions to the following aspects of your final group reports. You should provide short statements under the headers relevant to your work. For example, you could specify that you "wrote the first draft", "wrote the code to accomplish X figure or result", "troubleshot code", "interpreted results", etc.
+
+Include **separate** completed versions of this document for Project 1 **and** Project 2 in your portfolio repo; they do not need to be incorporated into the final knit portfolio html.
+
+## Abstract
+### Writing
+
+### Editing
+
+
+## Introduction
+### Literature research
+    + I provided some of the literature research for introducing Saanich Inlet
+    
+### Writing
+    + I wrote the first two paragraphs about Saanich Inlet. 
+    
+### Editing
+
+
+## Methods
+### Writing
+
+### Editing
+
+
+## Results
+    + I wrote the code for the results section to answer question 2: Does your taxon of interest *significantly* differ in abundance with depth and/or oxygen concentration?
+    
+### Anaysis 
+    + Wrote the corresponing analysis for question 2.
+
+### Figures
+    + With the help of Abdur, my written code provided the the figures for question 2 
+    
+### Writing
+
+### Editing
+
+
+## Discussion
+### Literature research
+
+### Writing
+
+### Editing
+
