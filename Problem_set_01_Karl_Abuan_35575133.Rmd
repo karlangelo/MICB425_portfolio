@@ -1,0 +1,79 @@
+#### Learning objectives: 
+Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
+
+#### Specific questions:
+* What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.  
+
+    + 1.2 x $10^{29}$ cells in open ocean
+    + 2.6 x $10^{29}$ cells in soil
+    + 3.5 x $10^{29}$ cells in oceanic subsurface
+    + 0.25 to 2.5 x $10^{30}$ cells in terrestrial subsurface
+  
+* What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?  
+
+    + 3.6 x $10^{28}$ cells in the upper 200 m of the ocean
+    + 2.9 x $10^{27}$ cells are autotrophs
+    + 8% of the biomass in the upper 200m of the ocean is represented by marine autotrophs including cyanobacterium/Prochlorococcus
+    + 8% of the autotrophs are responsible for the amount of carbon cycled through the Earth's oceans, which ultimately support carbon availability for the rest of the 92% heterotrophs
+
+* What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?  
+
+    + An autotroph uses inorganic chemicals (i.e. carbon dioxide) as carbon source, while heterotroph assimilate organic carbon sources (2). Autotrophs are also self-nourshing and capable of fixing inorganic carbon dioxide into biomass. 
+    + A lithotroph uses an inorganic chemical as electron source (2).
+    
+* Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?  
+
+    + The text provides that there are prokaryotes up to 4 km deep in the subsurface.
+    + Taking into account the deepest point in the ocean which is the Mariana's Trench       (10.9km deep), life could potentially exist at 14.9km deep.
+    + The limiting factor at these depths is the temperature.  At 4km deep into the     substrate the temperature is ~ 125 degrees celsius.
+
+* Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?  
+
+    + From the text, it was suggested that the atmosphere at 77 km is the upper bound from the highest point of the earth surface that is capable of supporting prokaryotic life. The highest habitat on Earth is Mount Everest which is approximately 8.8km above sea level. Some factors that can limit survival of airborne prokaryotes are nutrient availability, moisture (desiccant conditions) and UV radiation (3).
+
+* Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?  
+
+    + From the top of Mount Everest (8.8km high) to the bottom of Mariana's Trench (10.9km deep + 4km deeper into the sediment), there is about 24 km vertical distance where prokaryotes presumably can live. 
+    
+* How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)  
+
+    + population size * # of turn over per year (years) = cell per year 
+  
+    + Example: Using the data for marine heterotrophs:3.6 x 10^{28} * 365 day /15 turnovers = 8.2 x 10^{29} cells/ year
+  
+* What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?  
+
+    + According to the text, the carbon efficiency is approximated to be 20%.
+    + Assumption: 20 fg of C per prokaryotic cell which is is about 20^{-30} petagrams
+    + Amount of carbon in marine heterotrophs (pg/cell) = 3.6 x 10^28 cells x 20^{-30} petagrams of C/cell = 0.72 petagrams/ cell
+    + With 20% loss and 80% approx. retained, there is 4 x 0.72 = 2.88 petagrams of C/year for marine heterotrophs
+
+    + 51 petagrams of C/ year * 85% of that is consumed in photic waters = 43 petagrams of C/ year is consumed
+    + 43 petagrams C consumed /year / 2.88 petagrams C assimilated/year = 14.9 or 1 turnover every 24.5 days
+
+    + The variation of carbon assimilation with depths are primarily due to the different carbon production and composition of microoganism found in that particular habitat. 
+
+
+* How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)  
+
+    + [4.7x10^{-7} mutations/generation]^{4}= 2.56 x 10^{-26} mutations/generation
+    + generations per year in marine habitats? 3.6 x 10^{28} cells 
+    + 365 days/ 16 days = 22.8 turnovers/year
+    
+    + 3.6 x 10^{28} cells  x 22.8 turnovers/year = 8.2 x 10{^29} cells/year
+    
+    + 8.2 x 10{^29} cells/year x 2.56 x 10^{-26} mutations/generation = 2.1x 10{^4} mutations/year
+
+    + 2.1 x 10^4^ mutations/year is about 0.4 mutations/hour, as stated in the paper (1).
+    
+    + With a fast turnover rate and a big population size, these numbers are possible with respect to microbial population
+
+
+* Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?  
+
+    + With high mutation rates in such a large population size, prokaryotic cells can have high diversity and if mutations are beneficial, this increases microbes' adaptive potential. 
+    + Through horizonal gene transfer, microbial genomes can also have diversity and adapt.
+
+* What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
+
+    + With high abundance, rapid replication and high mutation rates, there is a possibility for an increase in diversity in the population. With increased microbial diversity, consequently there would be increased in metabolic potential in response to selective pressure and stress.

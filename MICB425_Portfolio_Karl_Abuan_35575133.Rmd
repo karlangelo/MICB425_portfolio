@@ -1,0 +1,195 @@
+---
+title: "MICB425 Portfolio - Microbial Ecological Genomics: From Genomes to Biomes, Spring 2018"
+author: "Karl  Abuan, 35575133"
+date: "version `r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    df_print: paged
+    toc_float:
+      collapsed: no
+---
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::read_chunk("DataScience_AssignmentFeb162018_KarlAbuan_35575133.R")
+knitr::read_chunk("DataScience_AssignmentJan262018_KarlAbuan_35575133.R")
+```
+
+# Module 01
+
+## Module 01 portfolio check
+* Installation check
+    + Completion status: X
+    + Comments:
+* Portfolio repo setup
+    + Completion status: X
+    + Comments:
+* R Markdown Pretty PDF Challenge
+    + Completion status: X
+    + Comments:
+* ggplot
+    + Completion status: 9/10
+    + Comments: Exercise 3 should be at a different taxonomic level than the example plot.
+    
+* Evidence worksheet_01
+    + Completion status:
+    + Comments: Incomplete
+* Evidence worksheet_02
+    + Completion status: X
+    + Comments:
+* Evidence worksheet_03
+    + Completion status:
+    + Comments:
+* Problem Set_01
+    + Completion status:
+    + Comments: Incomplete
+* Problem Set_02
+    + Completion status:
+    + Comments: Incomplete
+* Writing assessment_01
+    + Completion status:
+    + Comments:
+    
+## Data Science 
+### Installation check
+<img src="KA_assignment1.pdf" width="2500" height="2500">
+
+### Portfolio repo setup
+git status - is to check is my local repo is updated with the master repo
+git fetch then git pull - to pull the files from master repo to local repo
+git add . - to place file to the staging message
+git commit -m "Commit message" - to commit a file for addtion and to include a message along with it.
+git push - to push the file to the master repo
+
+### R Markdown pretty PDF challenge
+```{r child = "Pretty_html_Karl_Abuan_35575133.Rmd"}
+```
+
+### tidyverse 
+```{r DS_AssignmentJan262018}
+```
+
+### ggplot
+```{r DS_AssignmentFeb162018}
+```
+
+## Origins and Earth Systems
+
+### Evidence worksheet 01 "Prokaryotes: The unseen majority"
+[Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+```{r child = "Evidence_worksheet_01_KarlAbuan_35575133.Rmd"}
+```
+
+### Evidence worksheet 02 “Life and the Evolution of Earth’s Atmosphere”
+Kasting, JF, Siefert, JL. 2002. Life and the Evolution of Earth's Atmosphere. Science. 296:1066-1068. doi: 10.1126/science.1071184.
+```{r child = "Evidence_worksheet_02_KarlAbuan_35575133.Rmd"}
+```
+
+### Evidence worksheet 03 “The Anthropocene”
+Waters, CN, Zalasiewicz, J, Summerhayes, C, Barnosky, AD, Poirier, C, Galuszka, A, Cearreta, A, Edgeworth, M, Ellis, EC, Ellis, M, Jeandel, C, Leinfelder, R, McNeill, JR, Richter, DD, Steffen, W, Syvitski, J, Vidas, D, Wagreich, M, Williams, M, An, ZS, Grinevald, J, Odada, E, Oreskes, N, Wolfe, AP. 2016. The Anthropocene is functionally and stratigraphically distinct from the Holocene. Science. 351:137. doi: 10.1126/science.aad2622.
+```{r child = "Evidence_worksheet_03_KarlAbuan_35575133.Rmd"}
+```
+
+### Problem set 01 "Prokaryotes: The unseen majority"
+[Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+```{r child = "Problem_set_01_Karl_Abuan_35575133.Rmd"}
+```
+
+### Problem set 02 “Microbial Engines”
+Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320:1034-1039. doi: 10.1126/science.1153213
+```{r child = "Problem_set_02_Karl_Abuan_35575133.Rmd"}
+```
+
+### Writing Assessment 01
+
+### Module 01 references
+
+1. Achenbach, J. 2012. Spaceship Earth: A new view of environmentalism. Washington Post. . https://www.washingtonpost.com/national/health-science/spaceship-earth-a-new-view-of-environmentalism/2011/12/29/gIQAZhH6WP_story.html.
+
+2. Budny, JA. 2017. Book Review: Aerobiology—The Toxicology of Airborne Pathogens and Toxins. International Journal of Toxicology. 36:50-51. doi: 10.1177/1091581816678191.
+
+3. Canfield, DE, Glazer, AN, Falkowski, PG. 2010. The Evolution and Future of Earth's Nitrogen Cycle. Science. 330:192-196. doi: 10.1126/science.1186120.
+
+4. Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320:1034-1039. doi: 10.1126/science.1153213.
+
+5. Kasting, JF, Siefert, JL. 2002. Life and the Evolution of Earth's Atmosphere. Science. 296:1066-1068. doi: 10.1126/science.1071184.
+
+6. Knoll, AH, Canfield, DE, Konhauser, KO. Geobiology of the Anthropocene, p. 425-436. In Anonymous . John Wiley & Sons, Ltd, Chichester, UK. 
+
+7. Nisbet, EG, Sleep, NH. 2001. The habitat and nature of early life. Nature. 409:1083-1091. doi: 10.1038/35059210.
+
+8. Rockström, J, Steffen, W, Noone, K, Scheffer, M, Teknik- och vetenskapshistoria (bytt namn, 20120201), Skolan för arkitektur och samhällsbyggnad, (ABE), KTH, Filosofi och teknikhistoria. 2009. A safe operating space for humanity. Nature. 461:472-475. doi: 10.1038/461472a.
+
+9. Waters, CN, Zalasiewicz, J, Summerhayes, C, Barnosky, AD, Poirier, C, Galuszka, A, Cearreta, A, Edgeworth, M, Ellis, EC, Ellis, M, Jeandel, C, Leinfelder, R, McNeill, JR, Richter, DD, Steffen, W, Syvitski, J, Vidas, D, Wagreich, M, Williams, M, An, ZS, Grinevald, J, Odada, E, Oreskes, N, Wolfe, AP. 2016. The Anthropocene is functionally and stratigraphically distinct from the Holocene. Science. 351:137. doi: 10.1126/science.aad2622.
+
+10. Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+# Module 02
+## Module 02 portfolio check
+* Evidence worksheet_04
+    + Completion status:
+    + Comments:
+* Problem Set_03
+    + Completion status:
+    + Comments:
+
+### Evidence worksheet 04 “Bacterial Rhodopsin Gene Expression”
+Martinez, A, Bradley, AS, Waldbauer, JR, Summons, RE, DeLong, EF. 2007. Proteorhodopsin Photosystem Gene Expression Enables Photophosphorylation in a Heterologous Host. Proc. Natl. Acad. Sci. U. S. A. 104:5590-5595. doi: 10.1073/pnas.0611470104.
+```{r child = "Evidence_worksheet_04_KarlAbuan_35575133.Rmd"}
+```
+
+### Problem set 03 “Metagenomics: Genomic Analysis of Microbial Communities”
+Wooley, JC, Godzik, A, Friedberg, I. 2010. A primer on metagenomics. PLoS Computational Biology. 6:e1000667. doi: 10.1371/journal.pcbi.1000667.
+```{r child = "Problem_set_03_Karl_Abuan_35575133.Rmd"}
+```
+
+### Module 02 references
+1. Madsen, EL. 2005. Opinion: Identifying microorganisms responsible for ecologically significant biogeochemical processes. Nature Reviews Microbiology. 3:439-446. doi: 10.1038/nrmicro1151.
+
+2. Martinez, A, Bradley, AS, Waldbauer, JR, Summons, RE, DeLong, EF. 2007. Proteorhodopsin Photosystem Gene Expression Enables Photophosphorylation in a Heterologous Host. Proc. Natl. Acad. Sci. U. S. A. 104:5590-5595. doi: 10.1073/pnas.0611470104.
+
+3. Rappé, MS, Giovannoni, SJ. 2003. THE UNCULTURED MICROBIAL MAJORITY. Annual Reviews in Microbiology. 57:369-394. doi: 10.1146/annurev.micro.57.030502.090759.
+
+4. Solden, L, Lloyd, K, Wrighton, K. 2016. The bright side of microbial dark matter: lessons learned from the uncultivated majority. Curr. Opin. Microbiol. 31:217-226. doi: 10.1016/j.mib.2016.04.020.
+
+5. Wooley, JC, Godzik, A, Friedberg, I. 2010. A primer on metagenomics. PLoS Computational Biology. 6:e1000667. doi: 10.1371/journal.pcbi.1000667.
+
+6. Youssef, NH, Couger, MB, McCully, AL, Criado, AEG, Elshahed, MS. 2015. Assessing the global phylum level diversity within the bacterial domain: A review. Journal of Advanced Research. 6:269-282. doi: 10.1016/j.jare.2014.10.005.
+
+# Module 03
+
+## Module 03 portfolio check
+* Evidence worksheet_05
+    + Completion status:
+    + Comments:
+* Problem set_04
+    + Completion status:
+    + Comments:
+* Writing Assessment_03
+    + Completion status:
+    + Comments:
+    
+### Evidence worksheet 05 “Extensive mosaic stucture”
+Welch, RA, Burland, V, Plunkett, G, Redford, P, Roesch, P, Rasko, D, Buckles, EL, Liou, S-, Boutin, A, Hackett, J, Stroud, D, Mayhew, GF, Rose, DJ, Zhou, S, Schwartz, DC, Perna, NT, H. L. T. Mobley, Donnenberg, MS, Blattner, FR. 2002. Extensive Mosaic Structure Revealed by the Complete Genome Sequence of Uropathogenic Escherichia coli. Proc. Natl. Acad. Sci. U. S. A. 99:17020-17024. doi: 10.1073/pnas.252529799.
+```{r child = "Evidence_worksheet_05_KarlAbuan_35575133.Rmd"}
+```
+
+### Problem set_04 "Counting Candy Microbes"
+Kunin, V, Engelbrektson, A, Ochman, H, Hugenholtz, P. 2010. Wrinkles in the rare biosphere: pyrosequencing errors can lead to artificial inflation of diversity estimates. Environ. Microbiol. 12:118-123. doi: 10.1111/j.1462-2920.2009.02051.x.
+
+Sogin, ML, Morrison, HG, Huber, JA, Welch, DM, Huse, SM, Neal, PR, Arrieta, JM, Herndl, GJ. 2006. Microbial Diversity in the Deep Sea and the Underexplored "Rare Biosphere". Proc. Natl. Acad. Sci. U. S. A. 103:12115-12120. doi: 10.1073/pnas.0605127103.
+```{r child = "Problem_set_04_Karl_Abuan_35575133.Rmd"}
+```
+
+### Writing Assessment 03
+
+### Module 03 references
+
+1. Gaudet, AD, Ramer, LM, Nakonechny, J, Cragg, JJ, Ramer, MS. 2010. Small-group learning in an upper-level university biology class enhances academic performance and student attitudes toward group work. PloS One. 5:e15821. doi: 10.1371/journal.pone.0015821.
+
+2. Kunin, V, Engelbrektson, A, Ochman, H, Hugenholtz, P. 2010. Wrinkles in the rare biosphere: pyrosequencing errors can lead to artificial inflation of diversity estimates. Environ. Microbiol. 12:118-123. doi: 10.1111/j.1462-2920.2009.02051.x.
+
+3. Sogin, ML, Morrison, HG, Huber, JA, Welch, DM, Huse, SM, Neal, PR, Arrieta, JM, Herndl, GJ. 2006. Microbial Diversity in the Deep Sea and the Underexplored "Rare Biosphere". Proc. Natl. Acad. Sci. U. S. A. 103:12115-12120. doi: 10.1073/pnas.0605127103.
+
+4. Welch, RA, Burland, V, Plunkett, G, Redford, P, Roesch, P, Rasko, D, Buckles, EL, Liou, S-, Boutin, A, Hackett, J, Stroud, D, Mayhew, GF, Rose, DJ, Zhou, S, Schwartz, DC, Perna, NT, H. L. T. Mobley, Donnenberg, MS, Blattner, FR. 2002. Extensive Mosaic Structure Revealed by the Complete Genome Sequence of Uropathogenic Escherichia coli. Proc. Natl. Acad. Sci. U. S. A. 99:17020-17024. doi: 10.1073/pnas.252529799.

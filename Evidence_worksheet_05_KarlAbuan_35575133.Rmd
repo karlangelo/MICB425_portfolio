@@ -1,0 +1,72 @@
+#### Learning objectives Part 1
+
+* Evaluate the concept of microbial species based on environmental surveys and cultivation studies.
+
+* Explain the relationship between microdiversity, genomic diversity and metabolic potential
+
+* Comment on the forces mediating divergence and cohesion in natural microbial communities
+
+
+#### General questions
+
+* What were the main questions being asked?  
+
+    + How does the genomes of uropathogenic Escherichia coli, strain CFT073, enterohemorrhagic E. coli EDL933, and laboratory strain MG1655 compare to each other? What makes each them distinct from one another?
+
+    + How are these difference relate to their phenotype?
+
+* What were the primary methodological approaches used?  
+
+    + Isolation of CFT073
+    + Whole genome library preparation from the isolated genomic DNA of CFT073
+    + Sequencing
+    + Sequence analysis and annotation via MAGPIE
+
+* Summarize the main results or findings.  
+    + The genome of uropathogenic Escherichia coli, strain CFT073 is circular and has 5,231,428-bp. No virulence plasmids were found CFT073 since it not usually associated  with uropathogenic strains
+    
+    + Codon usage analysis in CFT073 showed that there is a different patterns of usage occur between the backbone and island gene. 
+    + Between the 3 strains of interest, there is variation in island genes, which is made possible by horizontal gene transfer. As an example from the text, the CFT073-specific islands contain 2,004 genes, of which only 204 also occur among the EDL933-specific genes.
+    + This suggested that there are difference in the genomes between pathogenic strains. This holds true when also compared to the benign strain. 
+    
+    + As quoted from the text, different E. coli pathotypes have maintained a remarkable synteny of common, vertically evolved genes, whereas many islands interrupting this common backbone have been acquired by different horizontal transfer events in each strain.
+    
+    + With only 39.2% between the genomes of  Escherichia coli strains CFT073, EDL933, strain MG1655, what can be conluded from the study is that a species may have a low percentage genome similarity and be functional different.
+
+
+* Do new questions arise from the results?  
+
+    + How should we define species?
+    + Should we define species now based on its pathogenicity? What would be the cut off? 
+    +Should we take a closer consideration of the niche th eeach pathotypes survived when it comes to defining what a species it?
+
+    + Why aren't virulence plasmid associated with uropathogenic strain CFT073 even though they are common to many E. coli isolates and usually  associated with other uropathogenic strains?
+
+    + Can we access the presence of black holes given the large number of genetic differences with today's technology? 
+    
+* Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+
+    + I think this paper is lacking a conclusion section which could have helped with better understanding of the bigger picture and implication of this study. 
+    + Providing a short definition for the jargons like uropathogenic, enterohemorrhagic would have been helpful.
+    + Figure 2 provides an advantage in understading the paper because it puts some of the results into a picture, making it easier to visualize.
+
+#### Learning objectives Part 2
+
+* Comment on the creative tension between gene loss, duplication and acquisition as it relates to microbial genome evolution
+* Identify common molecular signatures used to infer genomic identity and cohesion
+* Differentiate between mobile elements and different modes of gene transfer
+
+* Based on your reading and discussion notes, explain the meaning and content of the following figure derived from the comparative genomic analysis of three E. coli genomes by Welch et al. Remember that CFT073 is a uropathogenic strain and that EDL933 is an enterohemorrhagic strain. Explain how this study relates to your understanding of ecotype diversity. Provide a definition of ecotype in the context of the human body. Explain why certain subsets of genes in CFT073 provide adaptive traits under your ecological model and speculate on their mode of vertical descent or gene transfer.
+
+* <img src="Picture1.png" width="500" height="500">
+
+    + The figure is a comparison between the locations and sizes CFT073 and EDL933 island. The Island size is on the vertical axis; position in colinear backbone is on the horizontal axis. 
+    
+    + An ecotype describes a genetically distinct entity within a species which is genotypically adapted to specific environmental conditions. These different ecotypes or different strains of E. coli exhibit phenotypic differences. In the context 
+
+    + For uropathogenic strains of E. coli, island acquisition resulted in the capability to infect the urinary tract and bloodstream and evade host defenses without compromising the ability to harmlessly colonize the intestine.
+    
+    + For the different intestinal pathogens, acquired genes promote the colonization of specific regions of the intestine and new modes of interaction with the host tissue that produce clinically distinct variations of gastrointestinal disease
+
+    + What makes them the same species or what makes them all E. coli are due to vertical transfer of ancestral backbone genes. The new genes found in different E coli strain are acquired via  numerous, independent horizontal gene-transfer.
+

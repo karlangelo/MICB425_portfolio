@@ -1,0 +1,45 @@
+#### Learning objectives: 
+Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles.
+
+#### Specific Questions:
+* What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected?  
+
+    + The primary geophysical processes are the tectonics and atmospheric photochemical processes (i.e. erosion and geothermal activity) which continuously supply substrates and remove products on earth. These processes allow interactions of elements and molecules and cycles of chemical bond formation and cleavage that make planetary chemistry ultimately at thermodynamic equilibrium.
+
+    + The primary biogeochemical processes involves the cycle of the six major elements—H, C, N, O, S, and P. The first 5 elements in the list is hugely driven by microbes through thermodynamically constrained redox reactions. In addition, volcanism and rock weathering contribute to the nutrient cycling on earth. These events resupply C, S, and P.
+
+    + Abiotic processes are based on acid/base chemistry (i.e., transfers of protons without electrons) while biotic processes are based by redox reactions (i.e., successive transfers of electrons and protons from a relatively limited set of chemical elements). These processes are interconnected in which they have laid down the lower limits on the external energy needed to sustain the biogeochemical cycles on earth. 
+
+* Why is Earth’s redox state considered an emergent property?
+
+    + It is because the resulting redox condition of the ocean and atmosphere is far from the thermodynamic equilibrium, yet is fairly stable on geological time scales which is due to feedbacks between the evolution of microbial metabolic and geochemical processes.
+
+* How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?  
+
+    + Following the Le Chatelier's principle, depending on the available substrates vs products present, reactions can be driven in forward or reverse direction to achieve a thermodynamically favorable state. In the case with methanogenic Archaea the form methane from carbon dioxide and hydrogen, if hydrogen is suffienctly low, the reverse process occurrs. Microbes overcome thermodynamic barriers to reversible electron flow through close spatial association which allows synergistic cooperation with various microbial members. Back to the example earlier, to drive the reverse reaction provided by the methanogenic Archaea it would be in close proximity with hydrogen-consuming sulfate reducers, which would result in low hydrogen tension.
+
+* Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?   
+
+
+    + We can look at the nitrogen cycle at different points but for the purpose of explaining a cycle, we can start at the nitrogen fixation step as the starting reference point. Nitrogen fixation converts N2 to NH4 which allows for N2 to become accessible for synthesis of proteins and nucleic acids in organisms. 
+    
+    + In the presence of O2, NH4 is first oxidized to nitrite (NO2) by a specific group of bacteria or archaea, which then is oxidized to nitrate (NO3) by a different set of nitrifying bacteria. The redox potential involved in oxidation is used by nitrifiers to reduce CO2 into organic matter.
+
+    + In the absence of O2, a differnt group of microbes may use  NO2 and NO3 as electron acceptors in anaerobic oxidation to evetually produce N2. This closes the N-cycle.
+    
+    + Quoted from the text, the N-cycle "forms an interdependent electron pool that is influenced by photosynthetic production of oxygen and the availability of organic matter". Sunlight availability is affected by climated change. This, in turn, affect the N-cycle whereby photosynthetic organisms that require nitrogen oxides as terminal electron acceptors are involved. On the other hand, N-cycle can also haven a postive impact to climate change. Presence of nitrifying organisms, NH4 or NO2 can be use to reduce CO2 into organic matter, which then may minimize the green house effect by decreasing CO2 levels.
+    
+* What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?  
+
+    + Different redox and oxidations reations that give rise to a certain element or molecule are partitioned in different microbial groups as part of their metabolic pathway. As an example, methanogenic Archaea uses carbon dioxide and hydrogen to form methane. This is unique to hydrogen-consuming sulfate reducers which uses hydrogen. With their differert metabolic functions, each microbial groups can have a specialized role in a given community. With more microbial groupings specizlized in different methabolic pathways, we would expect a higher microbial diversity.
+    
+    + Microbes are able to transfer genes to other microbes via horizontal gene transfer. The transferred genes are retained due to presence of selective pressures in the environment. The transferred genes may encode a part of or an entire methabolic pathway. Following the central dogma of biology, with new transferred genes, new proteins are expected to be translated. 
+    
+    + With some parts of the metabolic pathway distributed to some microbial groups, there would be an increase in microbial diversity within a given environment. Under specific conditions, different microbes will need to transcibe and translate particular genes and produce proteins required for its survival. Thus, this relate to discovery of new protein families from microbial community genomes, whereby these environment-specific genes in a given microorganism are turned by a particular habitat. 
+
+* On what basis do the authors consider microbes the guardians of metabolism?
+
+    + Metabolic pathways stored in genes can be transfered and also be retained in microbes under environmental selection. Thus, as quoted from the paper, microbes can be seen as vessels that ferry metabolic machines through strong environmental perturbations and long geological landscapes. Individual members of the microbial community may become extinct but the core metabolic machines can persist. 
+
+
+

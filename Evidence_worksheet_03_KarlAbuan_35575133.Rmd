@@ -1,0 +1,43 @@
+#### Learning objectives
+
+* Evaluate human impacts on the ecology and biogeochemistry of Earth systems.
+
+#### General questions
+
+* What were the main questions being asked?  
+
+    + "Have humans changed the Earth system to such an extent that recent and currently forming geological deposits include a signature that is distinct from those of the Holocene and earlier epochs, which will remain in the geological record? If so, when did this stratigraphic signal (not necessarily the first detectable anthropogenic change) become recognizable worldwide?"
+    + Should we officialy formalize Anthropocene or even its early events, considering the vast changes humans have done to the Earth system?  
+
+* What were the primary methodological approaches used?  
+
+    + Reviewing of several research evidences suggesting that the Anthropocene’s stratigraphic signatures distinguish it from the Holocene. This includes measurements of:
+      + Novel markers, such as concrete, plastics, global black carbon, and plutonium (Pu) fallout, shown with radiocarbon ( 14 C) concentration
+      + Long-ranging signals such as nitrates (NO 3 – ), CO 2 , CH 4 , and global temperatures
+
+
+* Summarize the main results or findings.  
+
+    + Signs of Anthropocene:
+      + modification of carbon, nitrogen, and phosphorus cycles
+      + exceeding rate of see-level rise and pertubation of climate system
+      + global spikes in fallout radionuclides and particulates from fossil fuel combustion
+      + Lake sediments currently shows signs of Anthropocene that truly differ from Holocene signatures, as these are:
+        + unprecedented combinations of plastics, fly ash, radionuclides, metals, pesticides, reactive nitrogen, and consequences of increasing greenhouse gas concentrations.
+        + glacier retreat due to climate warming has resulted in an abrupt stratigraphic transition from proglacial sediments to nonglacial organic matter
+      + species invasions worldwide and accelerating rates of extinction
+      
+
+* Do new questions arise from the results?  
+
+    + When did the Anthropocene exactly begin? Is it possible to determine a specific year given the data we have?
+    + What are the benefits and/or disadvantages of of officially recognizing Anthropocene?
+    + Is Anthropocene "bad" for humanity? 
+    
+
+
+* Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+
+    + The photo the lake sediment containing a glacial retreat due to climate warning is a powerful image that shows a "snapshot" for the onset of Anthropocene
+    + Combining all the current evidences available,  the authors were able to match the criteria for definining Quaternary stratigraphic units with Anthropocene, which set the stage to formalize Anthropocene.
+    + Providing signals and suggestions how how they may be used in the stratigraphic characterization and correlation of Anthropocene epoch furthered the author's claim.

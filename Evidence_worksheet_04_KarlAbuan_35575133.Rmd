@@ -1,0 +1,20 @@
+#### Learning objectives
+
+* Discuss the relationship between microbial community structure and metabolic diversity
+* Evaluate common methods for studying the diversity of microbial communities
+* Recognize basic design elements in metagenomic workflows
+
+#### General questions
+
+* What were the main questions being asked?  
+
+
+* What were the primary methodological approaches used?  
+
+
+* Summarize the main results or findings.  
+
+
+* Do new questions arise from the results?  
+
+* Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  

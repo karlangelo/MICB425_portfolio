@@ -1,0 +1,47 @@
+#### Learning objectives
+Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems. 
+
+#### General questions
+
+* What were the main questions being asked?  
+
+    + What is the estimate number of prokaryotes on earth, epecifically in seawater, soil, and the sediment/soil subsurface?
+    + How much carbon derived from prokaryotes from the total carbon on Earth?
+
+* What were the primary methodological approaches used?  
+
+    + Three largest habitats were used to estimate the total number and total carbon of prokaryotes on earth:
+      1.	For the aquatic environments, the volumes of oceanic water, freshwater/ saline lakes, polar regions and the corresponding average cellular densities were multiplied to calculate the number of cells for that region. For the polar region, in particular, the estimated number of prokaryotes by Delille & Rosiers and the mean area extent of seasonal ice were also used in the calculation.
+      2.	For the soil, the authors conducted detailed direct counts from a coniferous forest utisol as it was generally considered representative of forest soil. 
+      3.	For the subsurface, the first approach is based on the assumption of the percentage of the  average porosity of the terrestrial subsurface (3%) and the total pore space occupied by prokaryotes (0.016%). The other approach involved using the estimated of number of prokaryotes in various groundwater sites multiplied to total volume of ground water in the earth surface.
+
+* Summarize the main results or findings.  
+
+    + Based on oceanic, soil, and subsurface habitats, the estimated total number of prokaryotes is 4 to 6 x $10^{30}$ cells
+    + 350-550 pg C of the total amount of C on Earth are estimated for the prokaryotes
+    + prokaryotic carbon pool is ~ 60 to 100% of the total carbon found in plants globally
+    + Prokaryotes contain ~ 85 to 130 Pg of N & 9 to 14 Pg of P which 10-fold more than plants
+    + Most prokaryotes found in ocean, soil, and oceanic & terrestrial subsrface habitats
+	      + 1.2 x $10^{29}$ cells in open ocean
+	      + 2.6 x $10^{29}$ cells in soil
+	      + 3.5 x $10^{29}$ cells in oceanic subsurface
+	      + 0.25 to 2.5 x $10^{30}$ cells in terrestrial subsurface
+    + The average prokaryotic turnover times are:
+	    + 20 0m upper ocean: 6 to 25 days
+	    + Ocean below 200 m: 0.8 years
+	    + Soil: 2.5 years
+	    + Subsurface: 1.2 x $10^{3}$ years
+      + Cellular production rate is ~ 1.7 x $10^{30}$ cells/year (highest in open ocean)
+    + The abundance of prokaryotes offers an enormous capacity for genetic diversity
+
+* Do new questions arise from the results?  
+
+    + There were many assumptions made in this study. Thus, how accurate were the numbers?
+    +  The prokaryotes' biomass is rich in nitrogen and phosphorus and in fact greater than of plants by an order of magnitude. This is  an indicative of the significat role prokaryotes play in C, N, and P  nutrient cycles, globally. Are there other global events or factors that prokayotes are involved in? 
+    + Microbes have high mutation rate and this could affect its turnover rates and consequently the cycles of nutrients such as C, N, and P. Up to what extent do prokaryotes play a role in the total metabolic potential of the earth's ecosystems?
+    + How diverse are the prokaryotes in each of habitats?
+
+* Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+
+    + There were a lot of number presented in the study and it would be really helpful if the authors provided more information regarding how they performed various calculations.
+    + Using multiple estimated data also increases the errors associated with it, which decreases the statistical confidence with the results
