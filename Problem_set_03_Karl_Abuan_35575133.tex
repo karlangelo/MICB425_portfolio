@@ -1,0 +1,287 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+  \title{}
+  \pretitle{\vspace{\droptitle}}
+  \posttitle{}
+  \author{}
+  \preauthor{}\postauthor{}
+  \date{}
+  \predate{}\postdate{}
+
+
+\begin{document}
+
+\paragraph{Learning objectives:}\label{learning-objectives}
+
+Specific emphasis should be placed on the process used to find the
+answer. Be as comprehensive as possible e.g.~provide URLs for web
+sources, literature citations, etc.\\
+\emph{(Reminders for how to format links, etc in RMarkdown are in the
+RMarkdown Cheat Sheets)}
+
+\paragraph{Specific Questions:}\label{specific-questions}
+
+\begin{itemize}
+\item
+  How many prokaryotic divisions have been described and how many have
+  no cultured representatives (microbial dark matter)?
+
+  \begin{itemize}
+  \item
+    At least 89 bacterial and 20 archaeal phyla are recognized via small
+    subunit ribosomal RNA databases, although the true phyla count is
+    certainly higher and could range up to 1,500
+
+    \begin{itemize}
+    \tightlist
+    \item
+      As there are prokaryotes that live in the ``shadow biosphere''
+      --\textgreater{} which is a hypothetical microbial biosphere
+      unknown to life
+    \end{itemize}
+  \item
+    26 of the approximately 52 identifiable major phyla, within the
+    domain Bacteria have cultivated representatives
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Thus, 52-26 of the major phyla of Bacteria are uncultured
+    \end{itemize}
+  \item
+    Point is most of the life is uncultured. Only information we have
+    about life is from seqeuncing.
+  \item
+    Specific references for the question above:
+
+    \begin{itemize}
+    \item
+      Solden, L, Lloyd, K, Wrighton, K. 2016. The bright side of
+      microbial dark matter: lessons learned from the uncultivated
+      majority. Curr. Opin. Microbiol. 31:217-226. doi:
+      10.1016/j.mib.2016.04.020.
+    \item
+      Youssef, NH, Couger, MB, McCully, AL, Criado, AEG, Elshahed, MS.
+      2015. Assessing the global phylum level diversity within the
+      bacterial domain: A review. Journal of Advanced Research.
+      6:269-282. doi: 10.1016/j.jare.2014.10.005.
+    \item
+      Rappé, MS, Giovannoni, SJ. 2003. THE UNCULTURED MICROBIAL
+      MAJORITY. Annual Reviews in Microbiology. 57:369-394. doi:
+      10.1146/annurev.micro.57.030502.090759.
+    \end{itemize}
+  \end{itemize}
+\item
+  How many metagenome sequencing projects are currently available in the
+  public domain and what types of environments are they sourced from?
+\item
+  Shot-gun metagenomics:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Assembly: EULER, IMG -/M
+  \item
+    Binning: S-GCOM, IMG-RAST
+  \item
+    Annotation: KEGG, NCBI
+  \item
+    Analysis: Megan 5
+  \end{itemize}
+\item
+  Marker Gene Metagenomics:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Standalone software:OTU base
+  \item
+    Analysis: SILVA
+  \item
+    Denoising: Amplicon Noise
+  \item
+    Datapases: Ribosomal Database Project (RDP) rences: from a paper,
+    review artile
+  \end{itemize}
+\item
+  What types of on-line resources are available for warehousing and/or
+  analyzing environmental sequence information (provide names, URLS and
+  applications)?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    IMG/-M (\url{https://img.jgi.doe.gov/m/})
+  \item
+    MEGAN (\url{https://ab.inf.uni-tuebingen.de/software/megan/})
+  \item
+    MetaPathways
+    (\url{https://hallam.microbiology.ubc.ca/MetaPathways/})
+  \end{itemize}
+\item
+  What is the difference between phylogenetic and functional gene
+  anchors and how can they be used in metagenome analysis?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Phylogenetic:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      veritcal gene transfer
+    \item
+      carry phylogenetic info
+    \item
+      taxonomic
+    \item
+      ideally single copy
+    \end{itemize}
+  \item
+    Functional:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      more horizontal gene transfer
+    \item
+      identify specific biogeochemical functions associated with
+      measureable effects
+    \item
+      not as useful for phylogentic construction
+    \end{itemize}
+  \end{itemize}
+\item
+  What is metagenomic sequence binning? What types of algorithmic
+  approaches are used to produce sequence bins? What are some risks and
+  opportunities associated with using sequence bins for metabolic
+  reconstruction of uncultivated microorganisms?
+
+  \begin{itemize}
+  \item
+    Binning: process of grouping sequences that comes from a single
+    genome
+  \item
+    Types of algorithms:
+  \end{itemize}
+
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \tightlist
+  \item
+    Align sequences to database
+  \item
+    Group to each based on DNA characteristics: GC content, codon usage
+  \end{enumerate}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Risks \& Oppurtunities: Risks:
+  \item
+    incomplete coverage of genome sequences
+  \item
+    contamination of different phylogeny. Questions to ask what is
+    considered a contamination?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Threshold should be be minimum 10\% for contamition
+    \end{itemize}
+  \item
+    What is a genome from a metagenome?
+  \end{itemize}
+\item
+  Is there an alternative to metagenomic shotgun sequencing that can be
+  used to access the metabolic potential of uncultivated microorganisms?
+  What are some risks and opportunities associated with this
+  alternative?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    functional screens (biochemical, etc)
+  \item
+    3rd gene seqeuecing (nanopore)
+  \item
+    Single sequencing
+  \item
+    FISH probe
+  \end{itemize}
+\end{itemize}
+
+
+\end{document}

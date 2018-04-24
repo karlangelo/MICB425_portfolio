@@ -19,39 +19,43 @@ knitr::read_chunk("DataScience_AssignmentJan262018_KarlAbuan_35575133.R")
 # Module 01
 
 ## Module 01 portfolio check
+* Evidence worksheet_01
+    + Completion status: X
+    + Comments: 
+* Evidence worksheet_02
+    + Completion status: X
+    + Comments:
+* Evidence worksheet_03
+    + Completion status: X
+    + Comments:
+* Problem Set_01
+    + Completion status: X
+    + Comments: 
+* Problem Set_02
+    + Completion status: X
+    + Comments: 
+* Writing assessment_01
+    + Completion status:
+    + Comments: Missing Writing assessment_01 --> See posted screenshots of the essay.
+* Additional Readings
+    + Completion status:
+    + Comments: Need links --> Links are now added. 
+    
+## Data Science 
+
 * Installation check
     + Completion status: X
     + Comments:
 * Portfolio repo setup
     + Completion status: X
     + Comments:
-* R Markdown Pretty PDF Challenge
+* RMarkdown Pretty PDF Challenge
     + Completion status: X
     + Comments:
 * ggplot
     + Completion status: 9/10
     + Comments: Exercise 3 should be at a different taxonomic level than the example plot.
-    
-* Evidence worksheet_01
-    + Completion status:
-    + Comments: Incomplete
-* Evidence worksheet_02
-    + Completion status: X
-    + Comments:
-* Evidence worksheet_03
-    + Completion status:
-    + Comments:
-* Problem Set_01
-    + Completion status:
-    + Comments: Incomplete
-* Problem Set_02
-    + Completion status:
-    + Comments: Incomplete
-* Writing assessment_01
-    + Completion status:
-    + Comments:
-    
-## Data Science 
+
 ### Installation check
 <img src="KA_assignment1.pdf" width="2500" height="2500">
 
@@ -105,23 +109,23 @@ Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Ea
 
 ### Module 01 references
 
-1. Achenbach, J. 2012. Spaceship Earth: A new view of environmentalism. Washington Post. . https://www.washingtonpost.com/national/health-science/spaceship-earth-a-new-view-of-environmentalism/2011/12/29/gIQAZhH6WP_story.html.
+1. Achenbach, J. 2012. Spaceship Earth: A new view of environmentalism. Washington Post. [Link](https://www.washingtonpost.com/national/health-science/spaceship-earth-a-new-view-of-environmentalism/2011/12/29/gIQAZhH6WP_story.html).
 
-2. Budny, JA. 2017. Book Review: Aerobiology—The Toxicology of Airborne Pathogens and Toxins. International Journal of Toxicology. 36:50-51. doi: 10.1177/1091581816678191.
+2. Budny, JA. 2017. Book Review: Aerobiology—The Toxicology of Airborne Pathogens and Toxins. International Journal of Toxicology. 36:50-51. doi: 10.1177/1091581816678191. [Link](http://journals.sagepub.com/doi/abs/10.1177/1091581816678191)
 
-3. Canfield, DE, Glazer, AN, Falkowski, PG. 2010. The Evolution and Future of Earth's Nitrogen Cycle. Science. 330:192-196. doi: 10.1126/science.1186120.
+3. Canfield, DE, Glazer, AN, Falkowski, PG. 2010. The Evolution and Future of Earth's Nitrogen Cycle. Science. 330:192-196. doi: 10.1126/science.1186120. [20929768](https://www.ncbi.nlm.nih.gov/pubmed/20929768)
 
-4. Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320:1034-1039. doi: 10.1126/science.1153213.
+4. Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320:1034-1039. doi: 10.1126/science.1153213. [Link](http://science.sciencemag.org/content/320/5879/1034)
 
-5. Kasting, JF, Siefert, JL. 2002. Life and the Evolution of Earth's Atmosphere. Science. 296:1066-1068. doi: 10.1126/science.1071184.
+5. Kasting, JF, Siefert, JL. 2002. Life and the Evolution of Earth's Atmosphere. Science. 296:1066-1068. doi: 10.1126/science.1071184. [Link](https://www.ncbi.nlm.nih.gov/pubmed/12004117)
 
-6. Knoll, AH, Canfield, DE, Konhauser, KO. Geobiology of the Anthropocene, p. 425-436. In Anonymous . John Wiley & Sons, Ltd, Chichester, UK. 
+6. Schrag, DP. 2012. Geobiology of the Anthropocene. Fundamentals of Geobiology. 425-436. [Link](https://onlinelibrary.wiley.com/doi/10.1002/9781118280874.ch22)
 
-7. Nisbet, EG, Sleep, NH. 2001. The habitat and nature of early life. Nature. 409:1083-1091. doi: 10.1038/35059210.
+7. Nisbet, EG, Sleep, NH. 2001. The habitat and nature of early life. Nature. 409:1083-1091. doi: 10.1038/35059210. [Link](https://www.nature.com/articles/35059210)
 
-8. Rockström, J, Steffen, W, Noone, K, Scheffer, M, Teknik- och vetenskapshistoria (bytt namn, 20120201), Skolan för arkitektur och samhällsbyggnad, (ABE), KTH, Filosofi och teknikhistoria. 2009. A safe operating space for humanity. Nature. 461:472-475. doi: 10.1038/461472a.
+8. Rockström, J, Steffen, W, Noone, K, Scheffer, M, Teknik- och vetenskapshistoria (bytt namn, 20120201), Skolan för arkitektur och samhällsbyggnad, (ABE), KTH, Filosofi och teknikhistoria. 2009. A safe operating space for humanity. Nature. 461:472-475. doi: 10.1038/461472a. [Link](https://www.nature.com/articles/461472a)
 
-9. Waters, CN, Zalasiewicz, J, Summerhayes, C, Barnosky, AD, Poirier, C, Galuszka, A, Cearreta, A, Edgeworth, M, Ellis, EC, Ellis, M, Jeandel, C, Leinfelder, R, McNeill, JR, Richter, DD, Steffen, W, Syvitski, J, Vidas, D, Wagreich, M, Williams, M, An, ZS, Grinevald, J, Odada, E, Oreskes, N, Wolfe, AP. 2016. The Anthropocene is functionally and stratigraphically distinct from the Holocene. Science. 351:137. doi: 10.1126/science.aad2622.
+9. Waters, CN, Zalasiewicz, J, Summerhayes, C, Barnosky, AD, Poirier, C, Galuszka, A, Cearreta, A, Edgeworth, M, Ellis, EC, Ellis, M, Jeandel, C, Leinfelder, R, McNeill, JR, Richter, DD, Steffen, W, Syvitski, J, Vidas, D, Wagreich, M, Williams, M, An, ZS, Grinevald, J, Odada, E, Oreskes, N, Wolfe, AP. 2016. The Anthropocene is functionally and stratigraphically distinct from the Holocene. Science. 351:137. doi: 10.1126/science.aad2622. [Link](http://science.sciencemag.org/content/351/6269/aad2622)
 
 10. Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 
@@ -129,10 +133,15 @@ Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Ea
 ## Module 02 portfolio check
 * Evidence worksheet_04
     + Completion status:
-    + Comments:
+    + Comments: Incomplete --> Now, it's completed.
 * Problem Set_03
-    + Completion status:
+    + Completion status: X
     + Comments:
+* Writing assessment_02
+    + CANCELED
+* Additional Readings
+    + Completion status:
+    + Comments: Need links. --> Links are now added. 
 
 ### Evidence worksheet 04 “Bacterial Rhodopsin Gene Expression”
 Martinez, A, Bradley, AS, Waldbauer, JR, Summons, RE, DeLong, EF. 2007. Proteorhodopsin Photosystem Gene Expression Enables Photophosphorylation in a Heterologous Host. Proc. Natl. Acad. Sci. U. S. A. 104:5590-5595. doi: 10.1073/pnas.0611470104.
@@ -145,30 +154,33 @@ Wooley, JC, Godzik, A, Friedberg, I. 2010. A primer on metagenomics. PLoS Comput
 ```
 
 ### Module 02 references
-1. Madsen, EL. 2005. Opinion: Identifying microorganisms responsible for ecologically significant biogeochemical processes. Nature Reviews Microbiology. 3:439-446. doi: 10.1038/nrmicro1151.
+1. Madsen, EL. 2005. Opinion: Identifying microorganisms responsible for ecologically significant biogeochemical processes. Nature Reviews Microbiology. 3:439-446. doi: 10.1038/nrmicro1151. [Link](https://www.nature.com/articles/nrmicro1151)
 
-2. Martinez, A, Bradley, AS, Waldbauer, JR, Summons, RE, DeLong, EF. 2007. Proteorhodopsin Photosystem Gene Expression Enables Photophosphorylation in a Heterologous Host. Proc. Natl. Acad. Sci. U. S. A. 104:5590-5595. doi: 10.1073/pnas.0611470104.
+2. Martinez, A, Bradley, AS, Waldbauer, JR, Summons, RE, DeLong, EF. 2007. Proteorhodopsin Photosystem Gene Expression Enables Photophosphorylation in a Heterologous Host. Proc. Natl. Acad. Sci. U. S. A. 104:5590-5595. doi: 10.1073/pnas.0611470104. [17372221](https://www.ncbi.nlm.nih.gov/pubmed/17372221)
 
-3. Rappé, MS, Giovannoni, SJ. 2003. THE UNCULTURED MICROBIAL MAJORITY. Annual Reviews in Microbiology. 57:369-394. doi: 10.1146/annurev.micro.57.030502.090759.
+3. Rappé, MS, Giovannoni, SJ. 2003. The uncultured microbial majority. Annual Reviews in Microbiology. 57:369-394. doi: 10.1146/annurev.micro.57.030502.090759. [14527284](https://www.ncbi.nlm.nih.gov/pubmed/14527284)
 
-4. Solden, L, Lloyd, K, Wrighton, K. 2016. The bright side of microbial dark matter: lessons learned from the uncultivated majority. Curr. Opin. Microbiol. 31:217-226. doi: 10.1016/j.mib.2016.04.020.
+4. Solden, L, Lloyd, K, Wrighton, K. 2016. The bright side of microbial dark matter: lessons learned from the uncultivated majority. Curr. Opin. Microbiol. 31:217-226. doi: 10.1016/j.mib.2016.04.020. [27196505](https://www.ncbi.nlm.nih.gov/pubmed/27196505)
 
-5. Wooley, JC, Godzik, A, Friedberg, I. 2010. A primer on metagenomics. PLoS Computational Biology. 6:e1000667. doi: 10.1371/journal.pcbi.1000667.
+5. Wooley, JC, Godzik, A, Friedberg, I. 2010. A primer on metagenomics. PLoS Computational Biology. 6:e1000667. doi: 10.1371/journal.pcbi.1000667. [20195499](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2829047/)
 
-6. Youssef, NH, Couger, MB, McCully, AL, Criado, AEG, Elshahed, MS. 2015. Assessing the global phylum level diversity within the bacterial domain: A review. Journal of Advanced Research. 6:269-282. doi: 10.1016/j.jare.2014.10.005.
+6. Youssef, NH, Couger, MB, McCully, AL, Criado, AEG, Elshahed, MS. 2015. Assessing the global phylum level diversity within the bacterial domain: A review. Journal of Advanced Research. 6:269-282. doi: 10.1016/j.jare.2014.10.005. [26257925](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4522544/)
 
 # Module 03
 
 ## Module 03 portfolio check
 * Evidence worksheet_05
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Problem set_04
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Writing Assessment_03
     + Completion status:
     + Comments:
+* Additional Readings
+    + Completion status:
+    + Comments: Need links --> Links are now added.
     
 ### Evidence worksheet 05 “Extensive mosaic stucture”
 Welch, RA, Burland, V, Plunkett, G, Redford, P, Roesch, P, Rasko, D, Buckles, EL, Liou, S-, Boutin, A, Hackett, J, Stroud, D, Mayhew, GF, Rose, DJ, Zhou, S, Schwartz, DC, Perna, NT, H. L. T. Mobley, Donnenberg, MS, Blattner, FR. 2002. Extensive Mosaic Structure Revealed by the Complete Genome Sequence of Uropathogenic Escherichia coli. Proc. Natl. Acad. Sci. U. S. A. 99:17020-17024. doi: 10.1073/pnas.252529799.
@@ -184,12 +196,74 @@ Sogin, ML, Morrison, HG, Huber, JA, Welch, DM, Huse, SM, Neal, PR, Arrieta, JM, 
 
 ### Writing Assessment 03
 
+<img src="Essays/KA_Module3Essay page 1.pdf" width="2500" height="2500">
+<img src="Essays/KA_Module3Essay page 2.pdf" width="2500" height="2500">
+<img src="Essays/KA_Module3Essay page 3.pdf" width="2500" height="2500">
+<img src="Essays/KA_Module3Essay page 4.pdf" width="2500" height="2500">
+<img src="Essays/KA_Module3Essay page 5.pdf" width="2500" height="2500">
+
 ### Module 03 references
 
-1. Gaudet, AD, Ramer, LM, Nakonechny, J, Cragg, JJ, Ramer, MS. 2010. Small-group learning in an upper-level university biology class enhances academic performance and student attitudes toward group work. PloS One. 5:e15821. doi: 10.1371/journal.pone.0015821.
+1. Callahan, BJ, McMurdie, PJ, Holmes, SP. 2017. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. The ISME Journal. 11:2639. [Link](https://www.ncbi.nlm.nih.gov/pubmed/28731476)
 
-2. Kunin, V, Engelbrektson, A, Ochman, H, Hugenholtz, P. 2010. Wrinkles in the rare biosphere: pyrosequencing errors can lead to artificial inflation of diversity estimates. Environ. Microbiol. 12:118-123. doi: 10.1111/j.1462-2920.2009.02051.x.
+2. Gaudet, AD, Ramer, LM, Nakonechny, J, Cragg, JJ, Ramer, MS. 2010. Small-group learning in an upper-level university biology class enhances academic performance and student attitudes toward group work. PloS One. 5:e15821. doi: 10.1371/journal.pone.0015821. [Link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015821)
 
-3. Sogin, ML, Morrison, HG, Huber, JA, Welch, DM, Huse, SM, Neal, PR, Arrieta, JM, Herndl, GJ. 2006. Microbial Diversity in the Deep Sea and the Underexplored "Rare Biosphere". Proc. Natl. Acad. Sci. U. S. A. 103:12115-12120. doi: 10.1073/pnas.0605127103.
+3. Hallam, SJ, Torres-Beltrán M, Hawley, AK. 2017. Monitoring microbial responses to ocean deoxygenation in a model oxygen minimum zone. Scientific Data. 4:. [Link](https://www.nature.com/articles/sdata2017158)
 
-4. Welch, RA, Burland, V, Plunkett, G, Redford, P, Roesch, P, Rasko, D, Buckles, EL, Liou, S-, Boutin, A, Hackett, J, Stroud, D, Mayhew, GF, Rose, DJ, Zhou, S, Schwartz, DC, Perna, NT, H. L. T. Mobley, Donnenberg, MS, Blattner, FR. 2002. Extensive Mosaic Structure Revealed by the Complete Genome Sequence of Uropathogenic Escherichia coli. Proc. Natl. Acad. Sci. U. S. A. 99:17020-17024. doi: 10.1073/pnas.252529799.
+4. Hawley, AK, Torres-Beltrán M, Zaikova, E, Walsh, DA, Mueller, A, Scofield, M, Kheirandish, S, Payne, C, Pakhomova, L, Bhatia, M. 2017. A compendium of multi-omic sequence information from the Saanich Inlet water column. Scientific Data. 4:170160. [Link](https://www.nature.com/articles/sdata2017160)
+
+5. Kunin, V, Engelbrektson, A, Ochman, H, Hugenholtz, P. 2010. Wrinkles in the rare biosphere: pyrosequencing errors can lead to artificial inflation of diversity estimates. Environ. Microbiol. 12:118-123. doi: 10.1111/j.1462-2920.2009.02051.x. [19725865](https://www.ncbi.nlm.nih.gov/pubmed/19725865)
+
+6. Sogin, ML, Morrison, HG, Huber, JA, Welch, DM, Huse, SM, Neal, PR, Arrieta, JM, Herndl, GJ. 2006. Microbial Diversity in the Deep Sea and the Underexplored "Rare Biosphere". Proc. Natl. Acad. Sci. U. S. A. 103:12115-12120. doi: 10.1073/pnas.0605127103. [16880384](https://www.ncbi.nlm.nih.gov/pubmed/16880384)
+
+7. Torres-Beltrán, M, Hawley, AK, Capelle, D, Zaikova, E, Walsh, DA, Mueller, A, Scofield, M, Payne, C, Pakhomova, L, Kheirandish, S. 2017. A compendium of geochemical information from the Saanich Inlet water column. Scientific Data. 4:170159. [Link](https://www.nature.com/articles/sdata2017159)
+
+8. Welch, RA, Burland, V, Plunkett, G, Redford, P, Roesch, P, Rasko, D, Buckles, EL, Liou, S-, Boutin, A, Hackett, J, Stroud, D, Mayhew, GF, Rose, DJ, Zhou, S, Schwartz, DC, Perna, NT, H. L. T. Mobley, Donnenberg, MS, Blattner, FR. 2002. Extensive Mosaic Structure Revealed by the Complete Genome Sequence of Uropathogenic *Escherichia coli*. Proc. Natl. Acad. Sci. U. S. A. 99:17020-17024. doi: 10.1073/pnas.252529799. [Link](http://www.pnas.org/content/99/26/17020.short)
+
+### Project 1
+
+* CATME account setup and survey
+    + Completion status: X
+    + Comments: 
+* CATME interim group assessment
+    + Completion status: X
+    + Comments:
+* Project 1
+    + Report (80%): 
+    + Participation (20%):
+
+<img src="Project1/Project1 page 1.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 2.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 3.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 4.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 5.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 6.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 7.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 8.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 9.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 10.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 11.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 12.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 13.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 14.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 15.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 16.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 17.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 18.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 19.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 20.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 21.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 22.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 23.pdf" width="2500" height="2500">
+<img src="Project1/Project1 page 24.pdf" width="2500" height="2500">
+
+
+## Module 04 Portfolio Content
+### Project 2
+
+* CATME final group assessment
+    + Completion status: 
+    + Comments:
+* Project 2
+    + Report (80%): 
+    + Participation (20%):

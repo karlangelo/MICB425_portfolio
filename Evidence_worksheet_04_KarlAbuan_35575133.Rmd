@@ -7,13 +7,22 @@
 #### General questions
 
 * What were the main questions being asked?  
-
-
+    + What are the specific functions and physiological roles of  Proteorhodopsins (PR) derived from marine microbial?
+    + What is the physiological basis of light-activated growth stimulation in bacteria containing the PR photosystem?
+    
 * What were the primary methodological approaches used?  
-
+    + Functional screening of metagenomic libraries of marine picoplankton large-insert genomic to create fosmid library 
+    + High-density colony macroarrays to make recombinant clones expressing PR photosystems in vivo
+    + Sequencing of clones and genomic analysis 
+    + Carotenoid Extraction 
+    + HPLC Analysis
+    + Proton-Pumping Experiments 
+    + ATP Measurements
 
 * Summarize the main results or findings.  
 
+    + 6 genes (s, ﬁve encoding photopigment biosynthetic proteins and one encoding a PR) is needed to have a fully functional PR photosystem 
+    + 
 
 * Do new questions arise from the results?  
 
