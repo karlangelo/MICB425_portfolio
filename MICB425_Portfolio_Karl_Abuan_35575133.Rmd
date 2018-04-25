@@ -107,6 +107,14 @@ Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Ea
 
 ### Writing Assessment 01
 
+<img src="Essays/KA_Module1Essay page 1.pdf" width="2500" height="2500">
+<img src="Essays/KA_Module1Essay page 2.pdf" width="2500" height="2500">
+<img src="Essays/KA_Module1Essay page 3.pdf" width="2500" height="2500">
+<img src="Essays/KA_Module1Essay page 4.pdf" width="2500" height="2500">
+<img src="Essays/KA_Module1Essay page 5.pdf" width="2500" height="2500">
+
++ a PDF copy of this essay is included in my Git hub account.
+
 ### Module 01 references
 
 1. Achenbach, J. 2012. Spaceship Earth: A new view of environmentalism. Washington Post. [Link](https://www.washingtonpost.com/national/health-science/spaceship-earth-a-new-view-of-environmentalism/2011/12/29/gIQAZhH6WP_story.html).
@@ -201,6 +209,8 @@ Sogin, ML, Morrison, HG, Huber, JA, Welch, DM, Huse, SM, Neal, PR, Arrieta, JM, 
 <img src="Essays/KA_Module3Essay page 3.pdf" width="2500" height="2500">
 <img src="Essays/KA_Module3Essay page 4.pdf" width="2500" height="2500">
 <img src="Essays/KA_Module3Essay page 5.pdf" width="2500" height="2500">
+
++ a PDF copy of this essay is included in my Git hub account.
 
 ### Module 03 references
 
