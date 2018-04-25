@@ -55,7 +55,8 @@ Comment on the emergence of microbial life and the evolution of Earth systems
     + 200,000 years ago
         + Homosapiens first appeared
 
-
+\vspace{12pt}
+ 
 * Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
 
     + Hadean  

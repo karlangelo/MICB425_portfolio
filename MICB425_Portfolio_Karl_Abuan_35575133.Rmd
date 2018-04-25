@@ -86,12 +86,12 @@ git push - to push the file to the master repo
 ```
 
 ### Evidence worksheet 02 “Life and the Evolution of Earth’s Atmosphere”
-Kasting, JF, Siefert, JL. 2002. Life and the Evolution of Earth's Atmosphere. Science. 296:1066-1068. doi: 10.1126/science.1071184.
+Kasting, JF, Siefert, JL. 2002. Life and the Evolution of Earth's Atmosphere. Science. 296:1066-1068. doi: 10.1126/science.1071184. [Link](https://www.ncbi.nlm.nih.gov/pubmed/12004117)
 ```{r child = "Evidence_worksheet_02_KarlAbuan_35575133.Rmd"}
 ```
 
 ### Evidence worksheet 03 “The Anthropocene”
-Waters, CN, Zalasiewicz, J, Summerhayes, C, Barnosky, AD, Poirier, C, Galuszka, A, Cearreta, A, Edgeworth, M, Ellis, EC, Ellis, M, Jeandel, C, Leinfelder, R, McNeill, JR, Richter, DD, Steffen, W, Syvitski, J, Vidas, D, Wagreich, M, Williams, M, An, ZS, Grinevald, J, Odada, E, Oreskes, N, Wolfe, AP. 2016. The Anthropocene is functionally and stratigraphically distinct from the Holocene. Science. 351:137. doi: 10.1126/science.aad2622.
+Waters, CN, Zalasiewicz, J, Summerhayes, C, Barnosky, AD, Poirier, C, Galuszka, A, Cearreta, A, Edgeworth, M, Ellis, EC, Ellis, M, Jeandel, C, Leinfelder, R, McNeill, JR, Richter, DD, Steffen, W, Syvitski, J, Vidas, D, Wagreich, M, Williams, M, An, ZS, Grinevald, J, Odada, E, Oreskes, N, Wolfe, AP. 2016. The Anthropocene is functionally and stratigraphically distinct from the Holocene. Science. 351:137. doi: 10.1126/science.aad2622. [Link](http://science.sciencemag.org/content/351/6269/aad2622)
 ```{r child = "Evidence_worksheet_03_KarlAbuan_35575133.Rmd"}
 ```
 
@@ -101,7 +101,7 @@ Waters, CN, Zalasiewicz, J, Summerhayes, C, Barnosky, AD, Poirier, C, Galuszka, 
 ```
 
 ### Problem set 02 “Microbial Engines”
-Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320:1034-1039. doi: 10.1126/science.1153213
+Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320:1034-1039. doi: 10.1126/science.1153213. [Link](http://science.sciencemag.org/content/320/5879/1034)
 ```{r child = "Problem_set_02_Karl_Abuan_35575133.Rmd"}
 ```
 
@@ -232,31 +232,9 @@ Sogin, ML, Morrison, HG, Huber, JA, Welch, DM, Huse, SM, Neal, PR, Arrieta, JM, 
     + Report (80%): 
     + Participation (20%):
 
-<img src="Project1/Project1 page 1.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 2.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 3.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 4.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 5.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 6.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 7.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 8.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 9.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 10.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 11.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 12.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 13.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 14.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 15.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 16.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 17.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 18.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 19.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 20.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 21.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 22.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 23.pdf" width="2500" height="2500">
-<img src="Project1/Project1 page 24.pdf" width="2500" height="2500">
-
+```{r, echo=FALSE}
+htmltools::tags$iframe(title="MICB425 Project 1", src="Project1/Project1_report.html", height=500, width=750)
+```
 
 ## Module 04 Portfolio Content
 ### Project 2
@@ -267,3 +245,7 @@ Sogin, ML, Morrison, HG, Huber, JA, Welch, DM, Huse, SM, Neal, PR, Arrieta, JM, 
 * Project 2
     + Report (80%): 
     + Participation (20%):
+    
+```{r, echo=FALSE}
+htmltools::tags$iframe(title="MICB425 Project 2", src="Project2/Project2_report.html", height=500, width=750)
+```

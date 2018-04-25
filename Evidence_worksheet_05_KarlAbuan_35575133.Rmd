@@ -15,6 +15,8 @@
 
     + How are these difference relate to their phenotype?
 
+\vspace{12pt}
+ 
 * What were the primary methodological approaches used?  
 
     + Isolation of CFT073
@@ -22,7 +24,10 @@
     + Sequencing
     + Sequence analysis and annotation via MAGPIE
 
+\vspace{12pt}
+ 
 * Summarize the main results or findings.  
+
     + The genome of uropathogenic Escherichia coli, strain CFT073 is circular and has 5,231,428-bp. No virulence plasmids were found CFT073 since it not usually associated  with uropathogenic strains
     
     + Codon usage analysis in CFT073 showed that there is a different patterns of usage occur between the backbone and island gene. 
@@ -33,7 +38,8 @@
     
     + With only 39.2% between the genomes of  Escherichia coli strains CFT073, EDL933, strain MG1655, what can be conluded from the study is that a species may have a low percentage genome similarity and be functional different.
 
-
+\vspace{12pt}
+ 
 * Do new questions arise from the results?  
 
     + How should we define species?
@@ -43,7 +49,9 @@
     + Why aren't virulence plasmid associated with uropathogenic strain CFT073 even though they are common to many E. coli isolates and usually  associated with other uropathogenic strains?
 
     + Can we access the presence of black holes given the large number of genetic differences with today's technology? 
-    
+
+\vspace{12pt}
+  
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
 
     + I think this paper is lacking a conclusion section which could have helped with better understanding of the bigger picture and implication of this study. 
@@ -56,6 +64,8 @@
 * Identify common molecular signatures used to infer genomic identity and cohesion
 * Differentiate between mobile elements and different modes of gene transfer
 
+\vspace{12pt}
+ 
 * Based on your reading and discussion notes, explain the meaning and content of the following figure derived from the comparative genomic analysis of three E. coli genomes by Welch et al. Remember that CFT073 is a uropathogenic strain and that EDL933 is an enterohemorrhagic strain. Explain how this study relates to your understanding of ecotype diversity. Provide a definition of ecotype in the context of the human body. Explain why certain subsets of genes in CFT073 provide adaptive traits under your ecological model and speculate on their mode of vertical descent or gene transfer.
 
 * <img src="Picture1.png" width="500" height="500">

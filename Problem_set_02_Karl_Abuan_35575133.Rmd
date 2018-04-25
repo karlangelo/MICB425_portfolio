@@ -10,14 +10,20 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
 
     + Abiotic processes are based on acid/base chemistry (i.e., transfers of protons without electrons) while biotic processes are based by redox reactions (i.e., successive transfers of electrons and protons from a relatively limited set of chemical elements). These processes are interconnected in which they have laid down the lower limits on the external energy needed to sustain the biogeochemical cycles on earth. 
 
+\vspace{12pt}
+ 
 * Why is Earth’s redox state considered an emergent property?
 
     + It is because the resulting redox condition of the ocean and atmosphere is far from the thermodynamic equilibrium, yet is fairly stable on geological time scales which is due to feedbacks between the evolution of microbial metabolic and geochemical processes.
 
+\vspace{12pt}
+ 
 * How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?  
 
     + Following the Le Chatelier's principle, depending on the available substrates vs products present, reactions can be driven in forward or reverse direction to achieve a thermodynamically favorable state. In the case with methanogenic Archaea the form methane from carbon dioxide and hydrogen, if hydrogen is suffienctly low, the reverse process occurrs. Microbes overcome thermodynamic barriers to reversible electron flow through close spatial association which allows synergistic cooperation with various microbial members. Back to the example earlier, to drive the reverse reaction provided by the methanogenic Archaea it would be in close proximity with hydrogen-consuming sulfate reducers, which would result in low hydrogen tension.
 
+\vspace{12pt}
+ 
 * Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?   
 
 
@@ -28,7 +34,9 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
     + In the absence of O2, a differnt group of microbes may use  NO2 and NO3 as electron acceptors in anaerobic oxidation to evetually produce N2. This closes the N-cycle.
     
     + Quoted from the text, the N-cycle "forms an interdependent electron pool that is influenced by photosynthetic production of oxygen and the availability of organic matter". Sunlight availability is affected by climated change. This, in turn, affect the N-cycle whereby photosynthetic organisms that require nitrogen oxides as terminal electron acceptors are involved. On the other hand, N-cycle can also haven a postive impact to climate change. Presence of nitrifying organisms, NH4 or NO2 can be use to reduce CO2 into organic matter, which then may minimize the green house effect by decreasing CO2 levels.
-    
+
+\vspace{12pt}
+     
 * What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?  
 
     + Different redox and oxidations reations that give rise to a certain element or molecule are partitioned in different microbial groups as part of their metabolic pathway. As an example, methanogenic Archaea uses carbon dioxide and hydrogen to form methane. This is unique to hydrogen-consuming sulfate reducers which uses hydrogen. With their differert metabolic functions, each microbial groups can have a specialized role in a given community. With more microbial groupings specizlized in different methabolic pathways, we would expect a higher microbial diversity.
@@ -37,6 +45,8 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
     
     + With some parts of the metabolic pathway distributed to some microbial groups, there would be an increase in microbial diversity within a given environment. Under specific conditions, different microbes will need to transcibe and translate particular genes and produce proteins required for its survival. Thus, this relate to discovery of new protein families from microbial community genomes, whereby these environment-specific genes in a given microorganism are turned by a particular habitat. 
 
+\vspace{12pt}
+ 
 * On what basis do the authors consider microbes the guardians of metabolism?
 
     + Metabolic pathways stored in genes can be transfered and also be retained in microbes under environmental selection. Thus, as quoted from the paper, microbes can be seen as vessels that ferry metabolic machines through strong environmental perturbations and long geological landscapes. Individual members of the microbial community may become extinct but the core metabolic machines can persist. 

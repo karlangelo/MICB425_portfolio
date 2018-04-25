@@ -25,8 +25,8 @@ Specific emphasis should be placed on the process used to find the answer. Be as
         
         + Rappé, MS, Giovannoni, SJ. 2003. THE UNCULTURED MICROBIAL MAJORITY. Annual Reviews in Microbiology. 57:369-394. doi: 10.1146/annurev.micro.57.030502.090759.
         
-        
-
+\vspace{12pt}
+ 
 * How many metagenome sequencing projects are currently available in the public domain and what types of environments are they sourced from?
   + Shot-gun metagenomics:
       + Assembly: EULER, IMG -/M
@@ -42,6 +42,8 @@ rences:
 from a paper,
 review artile
 
+\vspace{12pt}
+ 
 * What types of on-line resources are available for warehousing and/or analyzing environmental sequence information (provide names, URLS and applications)?  
 
       + IMG/-M (https://img.jgi.doe.gov/m/)
@@ -49,6 +51,8 @@ review artile
       + MetaPathways (https://hallam.microbiology.ubc.ca/MetaPathways/)
       
 
+\vspace{12pt}
+ 
 * What is the difference between phylogenetic and functional gene anchors and how can they be used in metagenome analysis?   
 
     + Phylogenetic:
@@ -60,7 +64,9 @@ review artile
         + more horizontal gene transfer
         + identify specific biogeochemical functions associated with measureable effects
         + not as useful for phylogentic construction
-  
+
+\vspace{12pt}
+   
 * What is metagenomic sequence binning? What types of algorithmic approaches are used to produce sequence bins? What are some risks and opportunities associated with using sequence bins for metabolic reconstruction of uncultivated microorganisms?  
     + Binning: process of grouping sequences that comes from a single genome
   
@@ -75,6 +81,8 @@ review artile
           + Threshold should be be minimum 10% for contamition
       + What is a genome from a metagenome? 
   
+\vspace{12pt}
+ 
 * Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?  
 
     + functional screens (biochemical, etc)

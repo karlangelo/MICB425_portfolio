@@ -1,0 +1,61 @@
+---
+title: "Project 1 self-assessment of contributions"
+subtitle: "2018 Term 2 - MICB425"
+output: html_document
+---
+To facilitate group assessment, please indicate your contributions to the following aspects of your final group reports. You should provide short statements under the headers relevant to your work. For example, you could specify that you "wrote the first draft", "wrote the code to accomplish X figure or result", "troubleshot code", "interpreted results", etc.
+
+# Self-Assessment and Notes for Project 2
+
+## Abstract
+### Writing
+    + I wrote the abstract. Some people helped with the last minute editing of the result statements and added a senetence or two, but 95% of it was my own work.
+
+### Editing
+    + On April 23rd, I came with Jonas to get feedback from Dr. Hallam for our Project 2. Afterwards, we both worked on trying to fix some of it. Then on that afternoon, I also set up a meeting with Kim.  She and I worked with her to decipher Dr. Hallam's comments. Kim helped me check if the intro and the abstract were good and they were. Point being, I took the initiative on behalf of the team to get feedback and started the editing with Jonah even though I still had finals on the following day. 
+
+## Introduction
+### Literature research
+    + I provided some of the literature research for introducing Saanich Inlet. I also looked for the necessary information to connect Saaanich to the nitrogen cycle so we could formulate our thesis/purpose statment. 
+    
+### Writing
+    + I wrote the important parts of the intro such as the first paragraph about the Saanich Inlet and the last paragraph about "tying it all together: i.e. explaining the purpose of the project.
+
+### Editing
+    + I spend a couple of days writing and editing the intro. I spent some time to properly format it as well.
+    + On April 23rd, I came with Jonas to get feedback from Dr. Hallam for our Project 2. Afterwards, we both worked on trying to fix some of it. Then on that afternoon, I also set up a meeting with Kim.  She and I worked with her to decipher Dr. Hallam's comments. Kim helped me check if the intro and the abstract were good and they were. Point being, I took the initiative on behalf of the team to get feedback and started the editing with Jonah even though I still had finals on the following day. 
+
+## Methods
+### Writing
+    + This section was assigned to another person.
+    
+### Editing
+
+
+## Results
+    
+### Analysis 
+
+
+### Figures
+    + I helped Jonas with editing the caption for some of the figures directly after we got our feedback from Dr. Hallam (on April 23, 2018)
+    
+### Writing
+    + I contributed a fair share of writing and completed the parts we as a team decided each of us would do.
+
+### Editing
+    + I contributed a fair share of editing and completed the parts that we as a team assigned for each other. I also constantly communicated with the team and asked if they could check my work or to let me know if there needs to be edited. I also provided some commnents to the team of what needs to be edited in the other parts of the projects.
+    
+## Discussion
+### Literature research
+    + This section was assigned to another person.
+    
+### Writing
+    + I contributed some ideas through my abstract that May added for the future experiments. Here was her exact comment on our GoogleDoc "I really like this point, maybe I'll add it to future directions".
+    
+### Editing
+
+## Team Management 
+    + I set up the Facebook group chat, our Google drive and also our Meeting Minutes to ensure everyone is up to date. I think this was essential to our success in finishing the project. 
+
+

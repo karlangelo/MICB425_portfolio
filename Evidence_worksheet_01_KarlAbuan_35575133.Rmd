@@ -8,6 +8,8 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
     + What is the estimate number of prokaryotes on earth, epecifically in seawater, soil, and the sediment/soil subsurface?
     + How much carbon derived from prokaryotes from the total carbon on Earth?
 
+\vspace{12pt}
+ 
 * What were the primary methodological approaches used?  
 
     + Three largest habitats were used to estimate the total number and total carbon of prokaryotes on earth:
@@ -15,6 +17,8 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
       2.	For the soil, the authors conducted detailed direct counts from a coniferous forest utisol as it was generally considered representative of forest soil. 
       3.	For the subsurface, the first approach is based on the assumption of the percentage of the  average porosity of the terrestrial subsurface (3%) and the total pore space occupied by prokaryotes (0.016%). The other approach involved using the estimated of number of prokaryotes in various groundwater sites multiplied to total volume of ground water in the earth surface.
 
+\vspace{12pt}
+ 
 * Summarize the main results or findings.  
 
     + Based on oceanic, soil, and subsurface habitats, the estimated total number of prokaryotes is 4 to 6 x $10^{30}$ cells
@@ -34,6 +38,8 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
       + Cellular production rate is ~ 1.7 x $10^{30}$ cells/year (highest in open ocean)
     + The abundance of prokaryotes offers an enormous capacity for genetic diversity
 
+\vspace{12pt}
+ 
 * Do new questions arise from the results?  
 
     + There were many assumptions made in this study. Thus, how accurate were the numbers?
@@ -41,6 +47,8 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
     + Microbes have high mutation rate and this could affect its turnover rates and consequently the cycles of nutrients such as C, N, and P. Up to what extent do prokaryotes play a role in the total metabolic potential of the earth's ecosystems?
     + How diverse are the prokaryotes in each of habitats?
 
+\vspace{12pt}
+ 
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
 
     + There were a lot of number presented in the study and it would be really helpful if the authors provided more information regarding how they performed various calculations.

@@ -6,24 +6,45 @@
 
 #### General questions
 
-* What were the main questions being asked?  
-    + What are the specific functions and physiological roles of  Proteorhodopsins (PR) derived from marine microbial?
+* What were the main questions being asked?
+
+    + What are the specific functions and physiological roles of  Proteorhodopsins (PR) derived from marine microbes?
     + What is the physiological basis of light-activated growth stimulation in bacteria containing the PR photosystem?
-    
-* What were the primary methodological approaches used?  
+    + Why is the PR system so ubiquitous?
+
+\vspace{12pt}
+ 
+* What were the primary methodological approaches used? 
+
     + Functional screening of metagenomic libraries of marine picoplankton large-insert genomic to create fosmid library 
     + High-density colony macroarrays to make recombinant clones expressing PR photosystems in vivo
-    + Sequencing of clones and genomic analysis 
+    + Sequencing of clones and genomic analysis i.e. the fosmid clones were sequenced, analyzed and annotated.
     + Carotenoid Extraction 
-    + HPLC Analysis
+    + HPLC Analysis i.e. in order to identify the pigments
     + Proton-Pumping Experiments 
     + ATP Measurements
 
+\vspace{12pt}
+ 
 * Summarize the main results or findings.  
 
-    + 6 genes (s, ﬁve encoding photopigment biosynthetic proteins and one encoding a PR) is needed to have a fully functional PR photosystem 
-    + 
+    + 6 genes (ﬁve encoding photopigment biosynthetic proteins and one encoding a PR) is needed to have a fully functional PR photosystem 
+    + The PR can be expressed and be functional without the photopigment
+    + Can introdue the PR system via a single horizontal gene transfer, which may explains the high abundance of PR in many organisms 
+    + Functional screening is useful approach to identify phenotypes without sequence data available 
+
+\vspace{12pt}
 
 * Do new questions arise from the results?  
 
+    + How prevalent is PR system among marine organisms, is there a percentage?
+    + What other potential reasons why many marine organisms have acquired the PR system?
+    + Is the PR systems also abundant in other mircoorganisms?
+
+\vspace{12pt}
+ 
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+
+    + Although the authors provided a flow chart, the texts for the method section were difficult to follow. I think it would be helpful if they had provided some rational for each of the major steps in their experimental approach.
+    + The figures were very presentable, summarized some of the results and helpful in terms of understanding the paper.
+    + The abstract was well-written. I got the whole picture of the paper from first glance.

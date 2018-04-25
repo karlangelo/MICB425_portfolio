@@ -1,0 +1,62 @@
+---
+title: "Project self-assessment of contributions"
+subtitle: "2018 Term 2 - MICB425"
+output: html_document
+---
+To facilitate group assessment, please indicate your contributions to the following aspects of your final group reports. You should provide short statements under the headers relevant to your work. For example, you could specify that you "wrote the first draft", "wrote the code to accomplish X figure or result", "troubleshot code", "interpreted results", etc.
+
+# Self-Assessment and Notes for Project 1
+
+## Abstract
+### Writing
+    + I wrote majority of the abstract (though partially Leilynaz helped me). 
+    
+### Editing
+    + After getting the initial feedback, I worked on editing my parts first, which included the abstract and the intro.
+
+## Introduction
+### Literature research
+    + I provided some of the literature research for introducing Saanich Inlet
+    
+### Writing
+    + I wrote the first two paragraphs about Saanich Inlet. 
+    
+### Editing
+    + After getting the intial feedback, I worked on editing my parts first, which included the abstract and the intro. When I also edited Lily's work in the introduction as it did not really flow well in the beginning.
+
+## Methods
+### Writing
+    + This section was assigned to another person.
+    
+### Editing
+
+
+## Results
+    + I wrote the code for the results section to answer question 2: Does your taxon of interest *significantly* differ in abundance with depth and/or oxygen concentration?
+    
+### Analysis 
+    + I provided the corresponding analysis for question 2. 
+    + I seeked helped and ask Abdur to ensure if I am interpreting the results correctly.
+
+### Figures
+    + With the help of Abdur, my written code provided the the figures for question 2 
+    
+### Writing
+    + I wrote the result section for question 2.
+    + I contributed a fair share of writing and completed the parts that we as a team decided each of us would do.
+
+### Editing
+    + I contributed a fair share of editing and completed the parts that we as a team assigned for each other. I also constantly communicated with the team and asked if they could check my work or to let me know if there needs to be edited. I also provided some commnents to the team of what needs to be edited in the other parts of the projects.
+    + Do note that at the beginning of Project 1, I was the communciation liason for the team, because one of my teammate was not able join our Facebook chat at the time. Thus, I passed along messages between two ends to ensure everyone were up to date. It took some work but for the sake of team work, I stepped up to the task. 
+
+## Discussion
+### Literature research
+    + This section was assigned to another person.
+    
+### Writing
+
+### Editing
+
+
+## Team Management 
+    + I set up the Facebook group chat, our Google drive and also our Meeting Minutes to ensure everyone is up to date. I think this was essential to our success in finishing the project. 
